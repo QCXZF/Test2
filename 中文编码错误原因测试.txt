@@ -1,3 +1,5 @@
-��ð����Ǻǣ�����	NotePadĬ�� ISO-8859-6 ����
+你好啊，呵呵，哈哈	NotePad默认 ISO-8859-6 编码
 
-��ð����Ǻǣ�����
+你好啊，呵呵，哈哈	EditPlus默认 GB18030 编码 right~！
+
+你好啊，呵呵，哈哈	EditPlus测试指定 UTF-8 保存编码
