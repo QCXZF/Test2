@@ -38,7 +38,7 @@
 
 括号中最前面不写 / ,表示 当前项目路径/ || 写了 / ,表示 项目根路径
 
-1.![](images/keyword.jpg)
+1.![](/images根路径/运算符.jpg)
 
 2.![](https://github.com/QCXZF/Test2/blob/master/javaSE/images/keyword.jpg)
 
