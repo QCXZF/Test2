@@ -36,7 +36,9 @@
 
 测试项目内图片
 
-1.![](javaSE/images/keyword.jpg)
+括号中最前面不写 / ,表示当前路径/
 
-2.![](https://github.com/QCXZF/Test2/blob/master/javaSE/image/keyword.jpg)
+1.![](/images/keyword.jpg)
+
+2.![](https://github.com/QCXZF/Test2/blob/master/javaSE/images/keyword.jpg)
 
