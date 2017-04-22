@@ -36,9 +36,9 @@
 
 测试项目内图片
 
-括号中最前面不写 / ,表示当前路径/
+括号中最前面不写 / ,表示 当前项目路径/ || 写了 / ,表示 项目根路径
 
-1.![](/images/keyword.jpg)
+1.![](images/keyword.jpg)
 
 2.![](https://github.com/QCXZF/Test2/blob/master/javaSE/images/keyword.jpg)
 
