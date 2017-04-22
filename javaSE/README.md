@@ -35,4 +35,4 @@
 - 5.看是否打印出 HelloWorld (打印出来即配置完成)
 
 测试项目内图片
-![](\images\keyword.jpg)
+![](/images/keyword.jpg)
