@@ -33,3 +33,6 @@
 - 3.当前路径下再输入 dir 会发现当前路径下多了个 HelloWorld.class 文件 (编译生成的文件)
 - 4.再执行 java HelloWorld 执行该编译文件 (java 执行命令)
 - 5.看是否打印出 HelloWorld (打印出来即配置完成)
+
+测试项目内图片
+![](\images\keyword.jpg)
