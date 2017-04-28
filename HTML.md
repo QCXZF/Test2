@@ -78,7 +78,6 @@
     - &lt;tr align="center"&gt;
       - &lt;th&gt;表头(默认居中加粗)&lt;/th&gt;
       - &lt;td colspan="列合并" rowspan="行合并"&gt;单元格&lt;/td&gt;	// 可进行布局
-
   - &lt;thead&gt;
   - &lt;tbody&gt;
   - &lt;tfoot&gt;		优化加载，增强用户体验
