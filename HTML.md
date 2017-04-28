@@ -7,12 +7,12 @@
 ## 二、html书写规范
 
 > &lt;html&gt;<br>
-> &nbsp;&nbsp;&lt;head&gt;<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;包括资讯信息 : 整个页面的属性, 指导浏览器解析标签,引入外部文件的标签<br>
-> &nbsp;&nbsp;&lt;/head&gt;<br>
-> &lt;body&gt;<br>
->	&nbsp;&nbsp;我们需要展示的内容<br>
->	&lt;/body&gt;<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&lt;head&gt;<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;包括资讯信息 : 整个页面的属性, 指导浏览器解析标签,引入外部文件的标签<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&lt;/head&gt;<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&lt;body&gt;<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们需要展示的内容<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&lt;/body&gt;<br>
 > &lt;/html&gt;
 
 ---
